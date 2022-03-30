@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+}
+img{
+margin-top:70px ;
+}
+.about{
+    max-width: 550px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+a{
+    display: block;
+    margin-top: 5px;
+}
